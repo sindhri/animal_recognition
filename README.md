@@ -1,7 +1,7 @@
 # Animal Recognition
-Data source: dphi
-Train a model to recognize 5 classes of animals
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/img1.png" width = "500">
+Data source: dphi  
+Train a model to recognize 5 classes of animals  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/img1.jpg" width = "200">
 * Training: 6558 images, validation: 1638 images, testing: 901 images
 * Used ImageDataGenerator for image augmentation, resizing, and normalization
 * Use Accuracy as the metrics, and categorical_crossentropy as the loss function
@@ -68,15 +68,15 @@ Several different models are trained
 
 ## Model1
 <img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model1.png" width = "250">
-## Model2
+## Model2  
 <img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model2.png" width = "250">
-## Model3
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model3.png" width = "250">
-## Model4
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model4.png" width = "250">
-## Model5
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model5.png" width = "250">
-## Model7
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model7.png" width = "250">
-## Model8
-<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model8.png" width = "250">
+## Model3  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model3.png" width = "250">  
+## Model4  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model4.png" width = "250">  
+## Model5  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model5.png" width = "250">  
+## Model7  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model7.png" width = "250">  
+## Model8  
+<img src = "https://github.com/sindhri/animal_recognition/blob/master/doc/img/model8.png" width = "250">  
