@@ -31,7 +31,7 @@ Several different models are trained
     <td>Model3: CNN</td>
     <td>5-layer CNN + Maxpooling + dropout + Dense, [256x256], optimizer ='adam'</td>
     <td>stuck at 23%</td>
-    <td>Not sure why CNN is preforming purely, local minimum?</td>
+    <td>Not sure why CNN is preforming poorly, local minimum?</td>
   </tr>
     <tr>
     <td>Model4: CNN</td>
